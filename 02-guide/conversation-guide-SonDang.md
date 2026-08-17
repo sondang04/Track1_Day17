@@ -452,10 +452,11 @@ Làm ngay sau khi tiễn người phỏng vấn — để nguội là quên.
 
 # 🅱️ PHẦN B — BẢN FINAL (điền sau khi phỏng vấn thật)
 
-> ⏳ **Trạng thái: chưa phỏng vấn.** Toàn bộ mục dưới đây phải được điền bằng dữ liệu từ phỏng vấn thật — không suy đoán, không điền cho đủ. Mỗi ô đều kèm hướng dẫn *"cần ghi gì"* để điền nhanh ngay trong buổi debrief.
+> ✅ **Đã phỏng vấn User 1** (17/08/2026, 5 phút 54 giây). Toàn bộ nội dung dưới đây rút từ [transcript](../interview_sondang/transcript_phong_van_on_thi.md) và [interview-notes-user1.md](../interview_sondang/interview-notes-user1.md). Chưa có User 2 và chưa phỏng vấn được giảng viên.
 
-**Số người đã phỏng vấn**: ___ / 3  
-**Ngày phỏng vấn**: ___
+**Số người đã phỏng vấn**: 1 / 3  
+**Ngày phỏng vấn**: 17/08/2026 — User 1 (học viên)  
+**Phạm vi bằng chứng**: chỉ có learner-side; instructor-side job (H3) chưa được kiểm chứng
 
 ---
 
@@ -463,29 +464,29 @@ Làm ngay sau khi tiễn người phỏng vấn — để nguội là quên.
 
 ### Câu hỏi bị loại bỏ
 
-*Cần ghi gì: câu nào bị trả lời cụt, gây khó chịu, hoặc trùng lặp với câu khác.*
-
 | Câu Hỏi Gốc | Lý Do Loại Bỏ |
 |-----------|-----------|
-| | |
-| | |
+| *"Vậy thì bạn không ôn tập ngoài giờ nhiều, mà bạn dùng VLearn đa phần trong lúc học **đúng không**?"* [01:00] | Câu tóm tắt đóng — gói sẵn kết luận rồi xin gật. Chỉ nhận được "Đúng rồi.", giết mạch đào ngay sau phát hiện lớn nhất buổi. |
+| Câu mô tả sẵn khái niệm "vùng giữa" dài ~30 giây [04:29] | Toàn bộ đáp án nằm trong câu hỏi. Trả lời thu được ("mình nghĩ là có, nghĩ là có... có thể là sẽ có") phải đánh dấu 🚩 và loại khỏi phần xác thực H1. |
+| *"...bạn có hay bỏ qua slide không nếu slide đó ít thông tin hay **bạn đã biết trước**?"* [02:27] | Tự cấp sẵn lý do bỏ qua. Nên để user tự nói vì sao họ bỏ. |
 
 ### Câu hỏi được sửa đổi
 
-*Cần ghi gì: câu bị hiểu sai, câu lỡ dẫn dắt, câu quá dài khiến người nghe quên vế đầu.*
-
 | Câu Hỏi (Phần A) | Câu Hỏi Final | Lý Do Điều Chỉnh |
 |-----------|-----------|-----------|
-| | | |
-| | | |
+| Hỏi gộp: "bạn có bỏ qua slide nào không? **Và** bạn có dùng công cụ bôi đen/gạch chân không?" [01:46] | Tách hẳn hai lượt, hỏi xong vế một mới sang vế hai | User rối, hỏi ngược *"bạn hỏi lại... hỏi lại cái..."*, vế thứ hai rơi mất 2 phút rưỡi |
+| "Có phần nào bạn không hiểu mà không hỏi ai, cũng không ghi lại gì không?" | Giữ nguyên, **nhưng bắt buộc có câu tiếp theo nếu user trả lời "không/rất ít"**: *"Vậy có lần nào đi thi rồi gặp một phần mà lúc học bạn thấy ổn không? Kể lần gần nhất."* | Trả lời "rất ít... chưa gặp" [03:52] suýt bị ghi nhầm thành bác bỏ H1. Cần đường vòng hỏi bằng sự kiện. |
+| "Cái gì khiến bạn chọn cách ghi chú hiện tại?" | *"Tại sao bạn không dùng bôi đen / ghi chú / hỏi tutor của VLearn?"* — nêu đích danh từng tính năng | Bản nêu đích danh cho ra root cause sắc nhất buổi (AI tutor chậm 1–2 phút). Hợp lệ vì tiền đề đã được user tự nói ra trước đó. |
+| "Lúc đóng máy lại, bạn có biết phần nào mình chưa nắm không? Biết bằng cách nào?" | Tách làm hai lượt, **hỏi lại vế "biết bằng cách nào" cho tới khi có câu trả lời** | Ở buổi User 1 vế này bị user lảng sang chuyện khác và **không bao giờ được trả lời** — mất đúng dữ liệu H1 cần nhất |
 
 ### Câu hỏi được thêm mới
 
-*Cần ghi gì: hướng đào phát sinh trong buổi đầu mà guide chưa lường trước.*
-
 | Câu Hỏi Mới | Lý Do Thêm | Đặt Ở Phase |
 |-----------|-----------|-----------|
-| | | |
+| *"Buổi đó bạn dừng ở slide nào lâu nhất? Vì sao lại là slide đó?"* | User 1 đọc **đều 3–5 phút mọi slide** → dwell time có thể là thói quen chứ không phải tín hiệu độ khó. Phải biết đây là cá biệt hay phổ biến. | Phase 2 |
+| *"Trước buổi giảng bạn có đọc slide trước không? Nếu có thì đọc thế nào?"* | Cả giả thuyết đặt trọng tâm ở "sau buổi học", nhưng User 1 học chủ yếu **trước và trong** giờ giảng. Phải hỏi thẳng ngay từ đầu. | Phase 1 (warm-up) |
+| *"Bạn ghi chú ở đâu? Vì sao chọn chỗ đó thay vì VLearn?"* + *"Công cụ nào bạn thấy nhanh hơn?"* | Root cause thật của H2 là **tốc độ**, không phải động lực. Cần đo sự so sánh này ở user tiếp theo. | Phase 3 |
+| *"Bạn có hay đọc slide trước buổi học không?"* (câu sàng lọc trước khi mời) | Tránh mẫu lệch: User 1 rất chủ động. Ưu tiên mời người trả lời "không". | Trước phỏng vấn |
 
 ---
 
@@ -495,79 +496,99 @@ Làm ngay sau khi tiễn người phỏng vấn — để nguội là quên.
 
 | Câu Hỏi | Lý Do Hiệu Quả | Kết Quả Thu Được |
 |--------|----------|--------|
-| | | |
-| | | |
+| ⭐ *"Lần đầu tiên bạn mở lại nội dung bài đó là lúc nào? Mở cái gì trước?"* [00:28] | Hỏi về một buổi có thật đã neo, và **không giả định** rằng user có ôn lại | Phá vỡ giả định Situation của cả nhóm trong **40 giây**: *"mình không dành thời gian ôn tập quá nhiều ở sau giờ học"* |
+| *"Tại sao bạn không dùng bôi đen / ghi chú / tutor của VLearn?"* [04:06] | Câu "tại sao không" đặt trên hành vi **user đã tự xác nhận** trước đó → tiền đề có thật, không phải dẫn dắt. Hỏi **rào cản**, không hỏi mong muốn. | Root cause thật của H2: *"nó quá chậm... 1 phút 2 phút nó mới đưa ra câu trả lời... hỏi những con khác nó nhanh hơn"* |
+| ⭐ *"Có phần nào bạn không hiểu mà không hỏi ai, cũng không ghi lại gì không?"* [03:36] | Trông như thất bại ("rất ít, chưa gặp"), nhưng ghép với câu ở [05:31] thì lộ ra phân biệt **known-unknown vs unknown-unknown** | Phát hiện nặng ký nhất cho Case C (xem Insight 3 bên dưới) |
 
 ### Cần điều chỉnh 🔧
 
 | Câu Hỏi | Vấn Đề | Cách Sửa |
 |--------|-------|-----------|
-| | | |
+| "...bạn biết bằng cách nào?" [02:53] | User đáp "Ừm có" rồi lảng sang chuyện khác; **không ai đòi lại** | Ghi câu hỏi đang mở ra góc giấy, chỉ gạch khi đã có câu trả lời thật |
+| Câu hỏi hai nòng [01:46] | User rối, vế hai rơi mất | Mỗi lượt một câu |
+| Câu "vùng giữa" [04:29] | Dài 30 giây, mô tả sẵn khái niệm | Câu hỏi tốt thì **ngắn**. Hỏi sự kiện: "kể lần gần nhất" |
+| Toàn bộ Phase 4 | Không được hỏi | Đặt mốc 20 phút, quá mốc là chuyển sang Phase 4 bất kể đang dở gì |
 
 ### Lỗi lớn mắc phải ⚠️
 
-*Ghi thật, kể cả lỗi xấu hổ — phần này là nơi bài lab tính điểm cho sự trung thực, và cũng là thứ giữ cho vòng sau không lặp lại.*
+**Lỗi 1 — Buổi phỏng vấn kết thúc ở 5 phút 54 giây / 45 phút thiết kế**:
+- Mô tả: Người hỏi tự tuyên bố *"mình chỉ có một câu cuối nữa... bạn cũng đã giải thích khá kỹ rồi"* ngay ở **phút thứ 3** [03:36]. Người ghi chép không dùng quyền hỏi bù 5 phút cuối.
+- Ảnh hưởng tới dữ liệu: **Phase 4 mất trắng** — không có severity, tần suất, hậu quả cụ thể, chi phí đã trả. Sau buổi này nhóm vẫn không biết vấn đề có đáng giải hay không.
+- Học được: **3 phát hiện lớn nhất đến SAU câu "câu cuối" đó.** Không bao giờ tuyên bố sắp hết khi vẫn còn giờ. Bổ sung quy tắc: *không ai được nói "câu cuối" khi chưa tick đủ 8 câu ⭐.*
 
-**Lỗi 1**:
-- Mô tả:
-- Ảnh hưởng tới dữ liệu:
-- Học được:
-
-**Lỗi 2**:
-- Mô tả:
-- Ảnh hưởng tới dữ liệu:
-- Học được:
+**Lỗi 2 — Không dùng kỹ thuật ⭐ đắt giá nhất của chính guide này**:
+- Mô tả: Không yêu cầu user mở VLearn ra đối chứng (Phase 3). Không hỏi warm-up (Phase 1). Không tóm tắt lại khi đóng buổi (Phase 5).
+- Ảnh hưởng tới dữ liệu: toàn bộ bằng chứng H2 là **self-report**, không có artifact. Mất hết thông tin nền (tuổi/ngành/năm học) → giờ không đánh giá được User 1 điển hình hay ngoại lệ, mọi kết luận phải kèm cảnh báo n=1.
+- Học được: guide có kỹ thuật hay mà không ai thực thi thì bằng không. In danh sách ⭐ ra giấy và tick tại chỗ.
 
 ---
 
 ## 📊 Insights Chính Từ Phỏng Vấn
 
-### Insight 1: ___
+### Insight 1: Trọng tâm học tập nằm TRƯỚC buổi giảng, không phải sau
 
-**Phát hiện**:
+**Phát hiện**: User 1 gần như không ôn lại sau giờ học. Họ đọc **toàn bộ slide trước giờ giảng**, 3–5 phút mỗi slide, và "hiểu bài ngay trong lúc đấy".
 
 **Quote nguyên văn**:
-> "___" — User ___
+> "thực ra thì mình không dành thời gian ôn tập quá nhiều ở sau giờ học. Mà bình thường mình sẽ dùng VLearn để theo dõi cái bài giảng của cô và hiểu bài ngay trong cái lúc đấy." — User 1 [00:44]
 
-**Là outlier hay pattern?** *(1 người nói = outlier; 2/2 hoặc 2/3 người nói = pattern đáng tin hơn)*
+**Là outlier hay pattern?** **Chưa xác định** (n=1). Đã thêm câu sàng lọc để kiểm chứng ở User 2.
 
-**Liên quan đến Problem Hypothesis**: *(ghi rõ: Ủng hộ / Bác bỏ / Chưa đủ dữ liệu — cho H1, H2 hay H3)*
+**Liên quan đến Problem Hypothesis**: **Bác bỏ phần Situation của H1.** Cũng đánh vào Trigger của Case C ("kết thúc một phiên học") — trigger bắt vào *sau* khi phần lớn hoạt động nhận thức đã xong.
 
 ---
 
-### Insight 2: ___
+### Insight 2: Ghi chú và câu hỏi đều chảy ra ngoài VLearn — vì VLearn chậm
 
-**Phát hiện**:
+**Phát hiện**: User 1 không dùng bôi đen/ghi chú của VLearn; ghi vào một app text bên ngoài và hỏi AI bên ngoài. Lý do **không phải** ngại thao tác mà là **độ trễ 1–2 phút** của AI tutor.
 
 **Quote nguyên văn**:
-> "___" — User ___
+> "mình **có** sử dụng, nhưng... nó quá chậm, mỗi lần mà mình hỏi thì nó phải mất cỡ phải 1 phút 2 phút nó mới bắt đầu đưa ra câu trả lời. Lúc đấy mà mình lướt qua rồi mình có thể hỏi những cái con khác nó nhanh hơn." — User 1 [04:13]
 
-**Là outlier hay pattern?**
+**Là outlier hay pattern?** Hành vi "ghi chú ngoài hệ thống" nhiều khả năng là pattern; **nguyên nhân cụ thể (độ trễ)** cần xác nhận lại ở User 2.
 
-**Liên quan đến Problem Hypothesis**:
+**Liên quan đến Problem Hypothesis**: **Ủng hộ mạnh H2, nhưng phải sửa root cause** — từ "thiếu động lực" thành "sản phẩm chậm hơn công cụ thay thế". Đây là vấn đề hiệu năng, có đường sửa rõ ràng hơn nhiều.
 
 ---
 
-### Insight 3: ___
+### Insight 3: Vấn đề thật là unknown-unknown — thứ không phát ra tín hiệu nào
 
-**Phát hiện**:
+**Phát hiện**: User 1 xử lý tốt phần "biết mình không biết" (ghi chú lại hoặc hỏi AI ngay). Cái họ không có cách nào phát hiện là phần **"không biết mình không biết"** — và họ tự gọi đó là điều đáng lo.
 
 **Quote nguyên văn**:
-> "___" — User ___
+> "thường rất ít... hiện tại đến hiện tại thì mình vẫn chưa gặp cái trường hợp đấy." — User 1 [03:52]
+>
+> "khi mà ôn thi thì mình cũng sẽ ôn lại từ đầu đến cuối... Còn về cái việc mà bảo là có bỏ qua hay không thì cái đấy cũng là một cái **điều đáng quan ngại, tại vì mình cũng không biết là mình có bỏ qua hay không**." — User 1 [05:31]
 
-**Là outlier hay pattern?**
+**Là outlier hay pattern?** Cần kiểm chứng, nhưng đây là **lõi H1 được xác nhận bằng chính từ ngữ của user**.
 
-**Liên quan đến Problem Hypothesis**:
+**Liên quan đến Problem Hypothesis**: **Ủng hộ lõi H1** — đồng thời sinh ra **H4**: Case C đi tìm *tín hiệu bối rối*, mà unknown-unknown theo định nghĩa **không phát ra tín hiệu bối rối nào**. Học viên lướt qua nó một cách tự tin, đúng 3–5 phút như mọi slide khác. Vùng rủi ro cao nhất là vùng radar không quét tới.
+
+---
+
+### Insight 4: "Ôn lại từ đầu đến cuối" là bảo hiểm, không phải nỗi đau
+
+**Phát hiện**: User 1 quét lại toàn bộ nội dung trước kỳ thi, nhưng **không hề than phiền** về việc đó — họ mô tả nó như phương pháp chủ động.
+
+**Quote nguyên văn**:
+> "khi mà ôn thi thì mình cũng sẽ ôn lại từ đầu đến cuối, chứ mình không phải là cứ học xong một lần xong mình bỏ luôn." — User 1 [05:31]
+
+**Là outlier hay pattern?** Chưa xác định.
+
+**Liên quan đến Problem Hypothesis**: **Cần điều chỉnh Pain 2.** Hành vi "ôn dàn trải" có thật nhưng chưa được *cảm nhận* như nỗi đau — nó là workaround cho tín hiệu bị thiếu (hệ quả trực tiếp của Insight 3). Chi phí thật của nó **chưa đo được** vì Phase 4 bị bỏ.
 
 ---
 
 ## 🧾 Bảng Kết Luận Giả Thuyết (điền sau khi phỏng vấn xong hết)
 
+*(Kết quả sau User 1 — n=1, chưa chốt cuối)*
+
 | Giả thuyết | Kết luận | Bằng chứng chính (quote/hành vi quan sát được) | Hệ quả cho Case C |
 |---|---|---|---|
-| **H1** — Học viên không xác định được mình chưa nắm chỗ nào | ☐ Ủng hộ ☐ Bác bỏ ☐ Chưa đủ dữ liệu | | |
-| **H2** — Học viên không để lại đủ tín hiệu trên VLearn | ☐ Ủng hộ ☐ Bác bỏ ☐ Chưa đủ dữ liệu | | |
-| **H3** — Giảng viên không biết lớp đang mắc ở đâu | ☐ Ủng hộ ☐ Bác bỏ ☐ Chưa đủ dữ liệu ☐ **Chưa phỏng vấn được** | | |
+| **H1** — Học viên không xác định được mình chưa nắm chỗ nào | ⚠️ **Cần điều chỉnh**: lõi root cause ✅ ủng hộ, nhưng Situation ❌ sai và Pain ⬜ chưa đo được | *"mình cũng không biết là mình có bỏ qua hay không. Cái đấy là quan trọng."* [05:31] — nhưng *"mình không dành thời gian ôn tập quá nhiều ở sau giờ học"* [00:44] bác bỏ Situation | Vấn đề có thật, nhưng nó xảy ra **trước/trong** buổi giảng chứ không phải sau. Phải xem lại thời điểm Case C thu tín hiệu. |
+| **H2** — Học viên không để lại đủ tín hiệu trên VLearn | ✅ **Ủng hộ mạnh** — nhưng root cause khác hẳn dự đoán | Không dùng bôi đen/ghi chú, ghi ra app text ngoài [03:02]; AI tutor *"quá chậm... 1 phút 2 phút"* nên dùng AI ngoài [04:13] | 2/4 nguồn input của solution (notes, AI Chat) sẽ nghèo dữ liệu chừng nào AI tutor còn chậm. **Phải sửa độ trễ trước khi nói tới Support Queue.** |
+| **H3** — Giảng viên không biết lớp đang mắc ở đâu | ⬜ **Chưa phỏng vấn được** | — | Chưa biết giảng viên có thời gian đọc Support Queue hay không — rủi ro chưa được chạm tới |
+| **H4** *(mới)* — Tín hiệu hành vi chỉ bắt được known-unknown | ⚠️ **Bằng chứng ban đầu ủng hộ**, cần kiểm chứng thêm | [03:52] không có known-unknown + [05:31] không biết mình bỏ sót gì + đọc đều 3–5 phút mọi slide [01:18] | **Nghiêm trọng nhất**: dwell time của User 1 gần như hằng số → không mang thông tin về độ khó. Radar có thể đang đo thứ nó đo được thay vì thứ nó cần đo. |
 
 **Đọc bảng này thế nào**:
 - H1 ủng hộ + H2 bác bỏ → vấn đề có thật **và** có dữ liệu để làm → Case C đứng vững, đi tiếp được.
@@ -578,13 +599,14 @@ Làm ngay sau khi tiễn người phỏng vấn — để nguội là quên.
 
 ## ✅ Checklist Sử Dụng Bản Final
 
-- [ ] Đã phỏng vấn ít nhất 2 học viên
-- [ ] Đã ghi rõ phạm vi bằng chứng (có/không có instructor-side)
-- [ ] Đã tóm tắt thay đổi so với Phần A
-- [ ] Đã ghi lại lỗi mắc phải một cách trung thực
-- [ ] Mỗi insight đều có quote nguyên văn kèm theo
-- [ ] Đã điền bảng kết luận giả thuyết
-- [ ] Có kế hoạch tiếp theo: phỏng vấn thêm hay tổng hợp kết quả?
+- [ ] ⬜ Đã phỏng vấn ít nhất 2 học viên — **mới có 1/2**
+- [x] Đã ghi rõ phạm vi bằng chứng (chỉ learner-side, chưa có instructor-side)
+- [x] Đã tóm tắt thay đổi so với Phần A
+- [x] Đã ghi lại lỗi mắc phải một cách trung thực
+- [x] Mỗi insight đều có quote nguyên văn kèm theo
+- [x] Đã điền bảng kết luận giả thuyết (kèm H4 mới)
+- [x] Có kế hoạch tiếp theo (xem mục dưới)
+- [ ] ⬜ **Còn thiếu: toàn bộ dữ liệu Phase 4** (severity, tần suất, chi phí đã trả)
 
 ---
 
@@ -599,13 +621,20 @@ Làm ngay sau khi tiễn người phỏng vấn — để nguội là quên.
 
 ## 🔄 Kế Hoạch Tiếp Theo
 
-1. **Còn phỏng vấn**: dùng Phần A đã được sửa theo Phần B cho người tiếp theo.
-2. **Đã xong phỏng vấn**: điền bảng kết luận giả thuyết → chuyển sang [practice-reflection.md](../04-reflection/practice-reflection.md).
-3. **H1 hoặc H2 bị bác bỏ**: quay lại [problem-hypothesis-SonDang.md](../01-hypothesis/problem-hypothesis-SonDang.md) viết giả thuyết mới, rồi làm lại guide — đừng chỉ vá câu hỏi.
+**Ưu tiên cho User 2** (theo đúng thứ tự này):
+
+1. **Dành trọn Phase 4** — buổi User 1 mất trắng phần này. Đặt mốc 20 phút, quá mốc là chuyển bất kể đang dở gì. Bắt buộc lấy: tần suất, hậu quả cụ thể đã xảy ra, **đã bỏ ra cái gì**.
+2. **Bắt mở VLearn ra** — không chấp nhận self-report cho câu hỏi về highlight/ghi chú.
+3. **Kiểm chứng H4** — hỏi "buổi đó bạn dừng ở slide nào lâu nhất? Vì sao?". Nếu nhịp đọc đều là phổ biến, tín hiệu dwell time của Case C mất phần lớn giá trị.
+4. **Chọn user thuộc nhóm khác** — dùng câu sàng lọc "bạn có hay đọc slide trước buổi học không?", ưu tiên người trả lời "không". User 1 rất chủ động; nếu User 2 cũng vậy thì mẫu lệch hẳn về nhóm học viên chăm — đúng nhóm mà H2 cảnh báo là nhóm duy nhất hệ thống nhìn thấy.
+5. **Đổi vai**: người viết guide nhận vai người hỏi chính.
+6. **Sau đó**: cập nhật H1'/H2'/H4 vào [problem-hypothesis-SonDang.md](../01-hypothesis/problem-hypothesis-SonDang.md), rồi chốt [practice-reflection.md](../interview_sondang/practice-reflection.md).
+
+**Nếu mời được giảng viên**: dùng module 6 câu ở cuối Phần A, đặc biệt câu *"cái gì sẽ khiến thầy/cô không dùng tới danh sách này?"*
 
 ---
 
-**Trạng thái**: Phần A hoàn chỉnh, sẵn sàng phỏng vấn — Phần B chờ dữ liệu thật  
-**Người biên soạn**: Đặng Thái Nam Sơn  
+**Trạng thái**: Phần A đã sửa sau buổi luyện (User 1) — Phần B điền tới 1/3 phỏng vấn  
+**Người biên soạn**: S*n  
 **Ngày cập nhật cuối**: 17/08/2026  
-**Số người dùng đã phỏng vấn**: 0
+**Số người dùng đã phỏng vấn**: 1
