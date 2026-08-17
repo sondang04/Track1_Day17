@@ -8,10 +8,49 @@
 
 ## 📌 Solution Directive (Xuất phát điểm)
 
-> **[Điền Solution Directive ban đầu từ README.md]**
+**Đề bài đã chọn**
 
-Ví dụ:
-> Xây dựng một ứng dụng mobile giúp sinh viên quản lý thời gian học tập hiệu quả hơn
+>Case C — AI Support Radar
+Sau mỗi phiên học, hệ thống phân tích các tín hiệu như di chuyển giữa slide, dừng lâu hoặc xem lại, highlight và ghi chú, đánh dấu “Chưa hiểu”, thay đổi câu trả lời, và nội dung trao đổi với AI Chat.
+
+AI tạo một Support Queue cho giảng viên, gồm:
+
+Những học viên có thể cần hỗ trợ.
+Phần nội dung mà họ có thể đang gặp khó khăn.
+Các tín hiệu dẫn đến nhận định đó.
+Một hành động hỗ trợ được đề xuất.
+Giảng viên xem lại và quyết định có liên hệ với học viên hay không.
+
+| Thành phần | Solution đã mô tả |
+|---|---|
+| Trigger | Kết thúc một phiên học |
+| Input | Slide navigation, notes, answers và AI Chat |
+| AI action | Suy đoán nhu cầu hỗ trợ và xếp mức ưu tiên |
+| Output Support | Queue cho giảng viên |
+| Human control | Giảng viên quyết định có can thiệp hay không |
+
+**Người phù hợp để phỏng vấn:** ưu tiên hai learners và một coach/instructor. Nếu không có coach/instructor trong giờ lab, nhóm có thể phỏng vấn ba learners nhưng phải ghi rõ: “Vòng này chỉ có learner-side evidence; instructor-side job chưa được kiểm chứng.”
+
+
+1. Diễn đạt lại directive dưới dạng capability trung tính:
+
+- Thu thập thông tin và hành vi của học viên trên VLearn trong phiên học, như di chuyển giữa slide, highlight/ghi chú/hỏi tutor, etc. sau đó tổng hợp thông tin cho giảng viên, highlight các chi tiết mà từng học viên chưa hiểu và đề xuất hướng hỗ trợ học viên
+
+=> Nâng cấp chất lượng giảng dạy của giảng viên
+
+
+2. Chuỗi thay đổi được kỳ vọng:
+
+Từ Solution (giải pháp) -> 
+0: Học viên được kỳ vọng sẽ sử dụng Vlearn nhiều hơn. 
+A. Mở rộng database: thông tin được bôi đen, chatlogs, thời gian đọc slide -> chia theo mỗi bài giảng. 
+B. Có thêm data về thời gian đọc slide, sẽ giúp chỉ ra các slide mà học viên dành nhiều thời gian đọc. 
+C. Có dữ liệu đọc, sẽ giúp giảng viên xác định được học viên đang tập trung vào phần nào của bài giảng nhiều, và đang thiếu tập trung vào phần nào của bài giảng.
+...
+-> Outcome: Giảng viên hỗ trợ được học viên hiểu bài giảng một cách hiệu quả và chuyên sâu hơn thông qua Support Queue.  
+
+
+
 
 ---
 
@@ -19,7 +58,7 @@ Ví dụ:
 
 ### Bước 1: Xác Định User & Situation
 
-**User Segment** (Ai là người dùng):
+**User Segment** (Ai là người dùng): Giảng viên
 - Đặc điểm: [Tuổi, công việc, kỹ năng, ...]
 - Nhu cầu cốt lõi: [...]
 - Hành vi hiện tại: [...]
@@ -28,6 +67,15 @@ Ví dụ:
 - Khi nào người dùng gặp tình huống này: [...]
 - Điều kiện có sẵn: [...]
 - Ràng buộc: [...]
+
+
+| Actor | Họ đang làm gì? | Pain hoặc hậu quả có thể có | Họ hưởng lợi như thế nào? |
+| --- | --- | --- | --- |
+| Giảng viên | Giảng bài giảng trên lớp, thuyết trình dựa trên slides. | Không nắm bắt được tình hình học tập của học viên do số lượng học viên quá đông | Hưởng lợi trực tiếp: Có support queue để điều tra quá trình học của học viên, có thể dễ dàng điều phối coach/lab coach thông báo cho học viên cần tập trung vào bộ phận nào |
+| Học viên | Đọc slide trên VLearn, nghe giảng viên giảng bài trên lớp, có thể sau đó đọc lại slide để ôn bài | Có thể nhiều chi tiết trong slide mỗi buổi giảng chưa rõ ràng, chưa chú ý đến các mục khác trong bài giảng, dẫn đến nguy cơ hổng kiến thức, ôn lệch đề | Hưởng lợi trực tiếp: Support queue giúp học viên dễ dàng được biết mình và các bạn khác cần tập trung vào cái gì trong bài giảng hôm đó, còn chưa chú ý đến cái gì trong bài giảng. | 
+
+Actor đề xuất điều tra: ***Học viên***. Tại sao? Cần xác định nếu học viên có thực sự sử dụng Vlearn đủ để thu thập dữ liệu có thiết thực cho giảng viên. 
+
 
 **Example**:
 ```
@@ -63,6 +111,19 @@ Expected Outcome:
   - Cảm thấy tự tin vào kế hoạch
 ```
 
+**Situation 1**
+> Khi **ôn tập cho kỳ kiểm tra giữa kỳ**, **học viên** đang cố **hiểu và ghi nhớ càng nhiều thông tin càng tốt** bằng cách **ôn tập dàn trải, sau đó tập trung vào những bài giảng tự thấy cần ôn kỹ hơn hay các bài giảng đã quên / chưa nhớ.** 
+
+> **JTBD**: Khi **gặp kiến thức mà chưa chắc cần ôn tập hoặc chưa chắc bài thi sẽ cover**, tôi muốn **biết được cần tập trung vào kiến thức nào**, để có thể **tiết kiệm được thời gian tự học**
+
+**Situation 2**
+> Khi **viết một bản recap cho học viên về bài học**, **giảng viên** đang cố **chọn lọc những chi tiết muốn nhấn mạnh cho học viên về bài học** bằng cách **tự nhớ lại mình nói những gì trong bài học, soát lại slide để chọn chi tiết, và nhớ lại học viên có hỏi nhiều về vấn đề gì nhất**
+
+> **JTBD**: Khi **chọn giữa các chủ đề muốn đưa vào recap**, tôi muốn **biết được chủ đề nào học viên thực sự cần củng cố hoặc tập trung học**, để có thể **đưa vào bài recap để học viên đọc và làm theo ý mình, củng cố việc ôn lại sau buổi học**
+
+
+
+
 ---
 
 ### Bước 3: Xác Định Perceived Pain (Nỗi đau cảm nhận)
@@ -89,6 +150,8 @@ Pain 2: Cảm thấy áp lực từ bạn bè học giỏi hơn
   - Severity: 3/5
   - Frequency: Thỉnh thoảng
   - Type: Social + Emotional
+
+
 ```
 
 ---
